@@ -1,0 +1,6 @@
+,Model with LR,Near Match,Exact Match,Average Levenshtein
+2,flan-t5-large_ep-10_ga-1_b-4_lr-0.0001_wd-0.01,0.95,0.91,0.37
+9,t5-large_ep-10_ga-1_b-4_lr-0.0003_wd-0.01,0.93,0.91,0.44
+6,t5-base_ep-10_ga-1_b-4_lr-0.0001_wd-0.01,0.93,0.89,0.68
+0,flan-t5-base_ep-10_ga-1_b-4_lr-0.0001_wd-0.01,0.87,0.85,0.76
+5,mt5-base_ep-10_ga-1_b-4_lr-0.0003_wd-0.01,0.85,0.78,1.23

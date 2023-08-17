@@ -1,0 +1,111 @@
+,input,output,prediction,result,Levenshtein_dist
+415,Industrie- und Laborgeräte,Industriegeräte und Laborgeräte,<extra_id_0>gerätegerätegerätegerätegerätegerätegerätegerätegerätegerätegerätegerätegerätegerätegerätegerätegerätegeräte,0,103
+416,Aus- und Weiterbildungsausweis,Ausbildungsausweis und Weiterbildungsausweis,<extra_id_0>ausweisausweisausweisausweisausweisausweisausweisausweisausweisausweisausweisausweisausweisausweisausweisausweisausweisausweis,0,112
+417,Schutz- und Arbeitskleider,Schutzkleider und Arbeitskleider,<extra_id_0>,0,29
+418,Migros- und Partnerbetrieben,Migrosbetrieben und Partnerbetrieben,<extra_id_0>betrieben undbetrieben undbetrieben undbetrieben und,0,37
+419,Transaktions- und Managementberatung,Transaktionsberatung und Managementberatung,<extra_id_0>,0,39
+420,Steil- und Flachdächern,Steildächern und Flachdächern,<extra_id_0> Flach Flach Flach Flach Flach Flach Flach Flach Flach Flach Flach Flach Flach Flach Flach Flach Flach Flach,0,106
+421,Data- und Frischekontrolle,Datakontrolle und Frischekontrolle,<extra_id_0>.,0,31
+422,Decken- und Bodenkonstruktionen,Deckenkonstruktionen und Bodenkonstruktionen,<extra_id_0>- und Bodenkonstruktionen,0,17
+423,Transport- und Logistikunternehmen,Transportunternehmen und Logistikunternehmen,<extra_id_0>,0,41
+424,Standard- und Nutzeranwendungen,Standardanwendungen und Nutzeranwendungen,<extra_id_0>- Benutzeranwendungen,0,21
+425,Kranken- und Pensionskasse,Krankenkasse und Pensionskasse,<extra_id_0>kassekassekassekassekassekassekassekassekassekassekassekassekassekassekassekassekassekasse,0,85
+426,Pflege- und Betreuungsqualität,Pflegequalität und Betreuungsqualität,<extra_id_0>,0,33
+427,Neu- und Weiterentwicklung,Neuentwicklung und Weiterentwicklung,<extra_id_0>,0,32
+428,Haus- und Sondermüll,Hausmüll und Sondermüll,<extra_id_0>üll,0,19
+429,Bundes- und Bundesverwaltungsgericht,Bundesgericht und Bundesverwaltungsgericht,<extra_id_0>verwaltungverwaltungverwaltungverwaltungverwaltungverwaltungverwaltungverwaltungverwaltungverwaltungverwaltungverwaltungverwaltungverwaltungverwaltungverwaltungverwaltungverwaltung,0,166
+430,Verkehrs- und Energiedirektion,Verkehrsdirektion und Energiedirektion,<extra_id_0>direkt,0,28
+431,Digitalisierung- und Nachhaltigkeitsstrategien,Digitalisierungstrategien und Nachhaltigkeitsstrategien,<extra_id_0>isierung,0,45
+432,Modellierungs- und Visualisierungssystemen,Modellierungssystemen und Visualisierungssystemen,<extra_id_0>systemensystemensystemensystemensystemensystemensystemensystemensystemensystemensystemensystemensystemensystemensystemensystemensystemensystemen,0,129
+433,Personen- und Sozialversicherungen,Personenversicherungen und Sozialversicherungen,<extra_id_0> Personen Personen Personen Personen Personen Personen Personen,0,49
+434,Familien- und Kindergottesdiensten,Familiengottesdiensten und Kindergottesdiensten,<extra_id_0>.,0,43
+435,Dauer- und Aushilfstellen,Dauerstellen und Aushilfstellen,<extra_id_0>hilfhilfehilfehilfehilfehilfe,0,32
+436,Bedienungs- und Servicemanuals,Bedienungsmanuals und Servicemanuals,<extra_id_0> Servicemanualservicemanualservicemanual,0,30
+437,Lohn- und Rechnungswesen,Lohnwesen und Rechnungswesen,<extra_id_0>---,0,26
+438,Debitoren- und Anlagebuchhaltung,Debitorenbuchhaltung und Anlagebuchhaltung,<extra_id_0> Anlage Anlage Anlage Anlage Anlage Anlage Anlage Anlage Anlage Anlage Anlage Anlage Anlage Anlage Anlage Anlage Anlage Anlage,0,117
+439,Bau- und Projektleitung,Bauleitung und Projektleitung,<extra_id_0>,0,25
+440,Behandlungs- und Krankenpflege,Behandlungspflege und Krankenpflege,<extra_id_0>pflegepflege,0,23
+441,Reinigungs- und Unterhaltsarbeiten,Reinigungsarbeiten und Unterhaltsarbeiten,<extra_id_0>.,0,37
+444,Verkaufs- und Projektorganisation,Verkaufsorganisation und Projektorganisation,<extra_id_0>,0,39
+445,Personalein- und Austrittsformalitäten,Personaleintrittsformalitäten und Austrittsformalitäten,<extra_id_0>formalformalformalformalformalformalformalformalformalformalformalformalformalformalformalformalformalformal,0,101
+446,Angst- und Zwangsstörungen,Angststörungen und Zwangsstörungen,<extra_id_0>sstörungen,0,21
+447,Transport- und Beschickungssystemen,Transportsystemen und Beschickungssystemen,<extra_id_0>systemesystemesystemesystemesystemesystemesystemesystemesystemesystemesystemesystemesystemesystemesystemesystemesystemesysteme,0,117
+448,Führungs- und Stabsprozesse,Führungsprozesse und Stabsprozesse,<extra_id_0> Stab Stab Stab Stab Stab Stab Stab Stab Stab Stab Stab Stab,0,65
+449,Mittwoch- und Samstagnachmittag,Mittwochnachmittag und Samstagnachmittag,<extra_id_0> und abends,0,30
+450,Produkte- und Lieferantenbewertungen,Produktebewertungen und Lieferantenbewertungen,<extra_id_0>bewertungen Bewertungenbewertungenieferantenbewertungen Produkte Produkte Produkte Produkte Produkte Produkte Produkte Produkte Produkte Produkte Produkte Produkte Produkte,0,147
+451,Freitag- und Samstagabend,Freitagabend und Samstagabend,<extra_id_0>abendabendabendabendabendabendabendabendabendabendabendabendabendabendabendabendabendabend,0,85
+452,Italienisch- und Englischkenntnisse,Italienischkenntnisse und Englischkenntnisse,<extra_id_0>kenntnisse,0,31
+453,Wärme- und Oberflächenbehandlung,Wärmebehandlung und Oberflächenbehandlung,<extra_id_0>behandlung Behandlungbehandlungbehandlungbehandlungbehandlungbehandlungbehandlungbehandlungbehandlungbehandlungbehandlungbehandlungbehandlungbehandlungbehandlungbehandlungbehandlung,0,162
+454,IT- und Bankenumfeld,IT-Umfeld und Bankenumfeld,<extra_id_0>umfeldumfeldumfeldumfeldumfeldumfeldumfeldumfeldumfeld,0,52
+455,Deutsch- und Westschweiz,Deutschschweiz und Westschweiz,<extra_id_0> West West West West West West West West West West West West West West West West West West,0,89
+456,Produkt- und Kundenschulungen,Produktschulungen und Kundenschulungen,<extra_id_0> Kunden Kunden Kunden Kunden Kunden Kunden Kunden Kunden Kunden Kunden Kunden Kunden Kunden Kunden Kunden Kunden Kunden Kunden,0,114
+457,Konzept- und Machbarkeitsstudien,Konzeptstudien und Machbarkeitsstudien,<extra_id_0>- und Machbarkeitsstudienstudienstudienstudienstudienstudienstudienstudienstudienstudienstudienstudienstudien,0,97
+458,Basis- und Serverplattformen,Basisplattformen und Serverplattformen,<extra_id_0>plattformenplattformenplattformenplattformenplattformenplattformenplattformenplattformenplattformenplattformenplattformenplattformenplattformenplattformenplattformenplattformenplattformenplattformen,0,181
+459,Nacht- und Pikettdienst,Nachtdienst und Pikettdienst,<extra_id_0>,0,24
+460,Verantwortungs- und Qualitätsbewusstsein,Verantwortungsbewusstsein und Qualitätsbewusstsein,<extra_id_0>verantwortungsbewusst,0,36
+461,Gips- und Kunststoffverbänden,Gipsverbänden und Kunststoffverbänden,<extra_id_0> und und und und und und und und und und und und und und und und und und,0,70
+462,Einkaufs- und Marketingteam,Einkaufsteam und Marketingteam,<extra_id_0>.,0,27
+463,Krankenkassen- und Versicherungsberatung,Krankenkassenberatung und Versicherungsberatung,<extra_id_0>beratung und Versicherungsberatungberatung und Versicherungsberatung und Versicherungsberatung,0,63
+464,Verkaufs- und Abschlussstärke,Verkaufsstärke und Abschlussstärke,<extra_id_0>stärkestärkestärkestärkestärkestärkestärkestärkestärkestärkestärkestärkestärkestärkestärkestärkestärkestärke,0,101
+465,Bachelor- und Masterstufe,Bachelorstufe und Masterstufe,<extra_id_0>,0,26
+466,Sicherheits- und Qualitätsansprüche,Sicherheitsansprüche und Qualitätsansprüche,<extra_id_0>sprüche - - - - - - - - ,0,32
+467,Qualitäts- und Sicherheitsansprüchen,Qualitätsansprüchen und Sicherheitsansprüchen,<extra_id_0>.,0,42
+468,Möbel- und Bauschreiner,Möbelschreiner und Bauschreiner,<extra_id_0>.,0,28
+469,Arbeits- und Lebensqualität,Arbeitsqualität und Lebensqualität,<extra_id_0>,0,29
+470,Strassen- und Schienenverkehr,Strassenverkehr und Schienenverkehr,<extra_id_0>verkehrverkehrverkehrverkehrverkehrverkehrverkehrverkehrverkehrverkehrverkehrverkehrverkehrverkehrverkehrverkehrverkehrverkehr,0,117
+471,Puls- und Zungendiagnostik,Pulsdiagnostik und Zungendiagnostik,<extra_id_0>ungenungenungenungenungenungenungen,0,36
+472,Mess- und Regeltechnik,Messtechnik und Regeltechnik,<extra_id_0>,0,24
+473,Lebens- und Arbeitsbedingungen,Lebensbedingungen und Arbeitsbedingungen,<extra_id_0>bedingungenbedingungenbedingungenbedingungenbedingungenbedingungenbedingungenbedingungenbedingungenbedingungenbedingungenbedingungenbedingungenbedingungenbedingungenbedingungenbedingungenbedingungen,0,178
+474,Umwelt- und Naturwissenschaften,Umweltwissenschaften und Naturwissenschaften,<extra_id_0>wissenschaften undwissenschaften,0,18
+475,Prämien- und Leistungsaufstellungen,Prämienaufstellungen und Leistungsaufstellungen,<extra_id_0>aufstellungen Aufstellungen Aufstellungen Aufstellungen Aufstellungen,0,44
+476,Kälte- und Klimamonteur,Kältemonteur und Klimamonteur,<extra_id_0>älteskühler,0,24
+477,Hochgeschwindigkeits- und Hochleistungsfräsmaschinen,Hochgeschwindigkeitsfräsmaschinen und Hochleistungsfräsmaschinen,<extra_id_0> Hochgeschwindigkeitsmaschinen Hochgeschwindigkeitsmaschinen Hochgeschwindigkeitsmaschinen Hochgeschwindigkeitsmaschinen Hochgeschwindigkeit,0,101
+478,Reparatur- und Garantieaufträgen,Reparaturaufträgen und Garantieaufträgen,<extra_id_0> Garantieaufträgen Garantieaufträgen Garantieaufträgen Garantieaufträgen Garantieaufträgen Garantieaufträgen,0,83
+479,Bachelor- und Masterstudenten,Bachelorstudenten und Masterstudenten,<extra_id_0>,0,33
+480,Be- und Verarbeitung,Bearbeitung und Verarbeitung,<extra_id_0>Verarbeitung,0,14
+481,Nachrichten- und Steuertechnikprojekte,Nachrichtenprojekte und Steuertechnikprojekte,<extra_id_0> Steuer Steuer Steuer Steuer Steuer Steuer Steuer Steuer Steuer Steuer Steuer,0,66
+483,OP- und LagerungsmitarbeiterInnen,OP-MitarbeiterInnen und LagerungsmitarbeiterInnen,<extra_id_0>Innen,0,39
+484,Brandmelde- und Löschanlagen,Brandmeldeanlagen und Löschanlagen,<extra_id_0>anlagenanlagen,0,21
+485,Kindergarten- und Primarschulkinder,Kindergartenkinder und Primarschulkinder,<extra_id_0>kinderkinderkinderkinderkinderkinderkinderkinderkinderkinderkinderkinderkinderkinderkinderkinderkinderkinder,0,95
+486,Team- und Kommunikationsfähigkeit,Teamfähigkeit und Kommunikationsfähigkeit,<extra_id_0>fähigkeitsfähigkeitsfähigkeits,0,27
+487,CNC- und Zerspanungskenntnisse,CNC-Kenntnisse und Zerspanungskenntnisse,<extra_id_0>kenntnissekenntnissekenntnissekenntnissekenntnissekenntnissekenntnissekenntnissekenntnissekenntnissekenntnissekenntnissekenntnissekenntnissekenntnissekenntnissekenntnissekenntnisse,0,167
+488,Privat- und Firmenkunden,Privatkunden und Firmenkunden,<extra_id_0>,0,27
+489,Landerwerbs- und Landverkaufsprojekten,Landerwerbsprojekten und Landverkaufsprojekten,<extra_id_0> Land Land Land Land Land Land Land Land Land Land Land Land Land Land Land Land Land Land,0,87
+490,Ausbau- und Unterhaltsprojekten,Ausbauprojekten und Unterhaltsprojekten,<extra_id_0> - Erweiterungs,0,33
+491,Wein- und Menükunde,Weinkunde und Menükunde,<extra_id_0>kunde,0,16
+492,CRM- und Kundenbindungsprozesse,CRM-Prozesse und Kundenbindungsprozesse,<extra_id_0> -,0,36
+493,Lern- und Lehrpraxis,Lernpraxis und Lehrpraxis,<extra_id_0>,0,20
+494,Empfangs- und Telefondienst,Empfangsdienst und Telefondienst,<extra_id_0>mpfangs- und Servicempfangs,0,29
+495,Krisen- und Operationsführung,Krisenführung und Operationsführung,<extra_id_0>führungführungführungführungführungführungführungführungführungführungführungführungführungführungführungführungführungführung,0,117
+496,Neu- und Bestandeskunden,Neukunden und Bestandeskunden,<extra_id_0>,0,27
+497,Prozess- und Anforderungsdefinition,Prozessdefinition und Anforderungsdefinition,<extra_id_0> An An An An An An An An An An An Andefinition An Andefinition Andefinition,0,60
+498,Akkreditiv- und Dokumentarinkassogeschäft,Akkreditivgeschäft und Dokumentarinkassogeschäft,<extra_id_0>kreditgeschäft,0,34
+499,Hals- und Gesichtschirurgie,Halschirurgie und Gesichtschirurgie,<extra_id_0>chirurgiechirurgiechirurgiechirurgiechirurgiechirurgiechirurgiechirurgiechirurgiechirurgiechirurgiechirurgiechirurgiechirurgiechirurgiechirurgiechirurgiechirurgie,0,150
+501,Wochenend- und Spätdiensten,Wochenenddiensten und Spätdiensten,<extra_id_0>dienstedienstendienstedienstendienstedienstedienstedienstedienstedienstedienstedienstedienstedienstedienstedienstedienstedienste,0,116
+502,On- und Offline,Online und Offline,<extra_id_0>- Offline,0,13
+503,Vor- und Nacharbeiten,Vorarbeiten und Nacharbeiten,<extra_id_0> Vor Vor Vor Vor,0,25
+504,Service- und Teamorientierung,Serviceorientierung und Teamorientierung,<extra_id_0>rientierung,0,25
+505,Schalttafel- und Steuerungsbau,Schalttafelbau und Steuerungsbau,<extra_id_0> Schalttafelbau,0,25
+506,Hotel- und Gaststättengewerbe,Hotelgewerbe und Gaststättengewerbe,<extra_id_0>gewerbe Gastgewerbegewerbe Gastgewerbegewer,0,38
+507,Heizungs- und Klimatechnik,Heizungstechnik und Klimatechnik,<extra_id_0> Klima Klima Klima Klima Klima Klima Klima,0,43
+508,Draht- und Gittergewebe,Drahtgewebe und Gittergewebe,<extra_id_0> Drah Drah Drah Drah Drah Drah Drah Drah Drah Drah Drah Drah Drah Drah Drah Drah Drah Drah,0,95
+509,Förder- und Handlingstechnik,Fördertechnik und Handlingstechnik,<extra_id_0> Fördertechniktechnik,0,24
+510,Verkaufs- und Verhandlungsgeschick,Verkaufsgeschick und Verhandlungsgeschick,<extra_id_0>gegegegege,0,35
+511,Privat- und Geschäftskunden,Privatkunden und Geschäftskunden,<extra_id_0> Privat Privat Privat Privat Privat Privat Privat Privat Privat Privat Privat Privat Privat Privat Privat Privat Privat Privat,0,129
+512,Luft- und Raumfahrt,Luftfahrt und Raumfahrt,<extra_id_0>fahrtfahrtfahrtfahrtfahrtfahrtfahrtfahrtfahrtfahrtfahrtfahrtfahrtfahrtfahrtfahrtfahrtfahrt,0,89
+514,Artikel- und Lieferantenstammpflege,Artikelstammpflege und Lieferantenstammpflege,<extra_id_0>pflegepflege pflegepflege pflegepflege pflegepflege pflegepflege,0,55
+516,Akquisition- und Baukostenplanung,Akquisitionplanung und Baukostenplanung,<extra_id_0>quisitionkostenkostenkostenkostenkostenkostenkostenkostenkostenkostenkostenkostenkostenkosten,0,85
+517,Eigenmiet- und Vermögenssteuerwerte,Eigenmietwerte und Vermögenssteuerwerte,<extra_id_0>wertewerte,0,27
+518,Kredit- und Passivgeldprodukte,Kreditprodukte und Passivgeldprodukte,<extra_id_0>produkteprodukteprodukteprodukteprodukteprodukteprodukteprodukteprodukteprodukteprodukteprodukte,0,84
+519,Fach- und Handlungskompetenz,Fachkompetenz und Handlungskompetenz,<extra_id_0>kompetenzkompetenzkompetenzkompetenzkompetenzkompetenzkompetenzkompetenzkompetenzkompetenzkompetenzkompetenzkompetenz,0,107
+520,Unternehmens- und Personalberatung,Unternehmensberatung und Personalberatung,<extra_id_0>,0,37
+521,Marketing- und Verkaufsstrategie,Marketing- und Verkaufsstrategie,<extra_id_0>,0,29
+522,Maler- und Schreinerarbeiten,Maler- und Schreinerarbeiten,<extra_id_0> -,0,26
+523,Fort- und Weiterbildungsangebote,Fort- und Weiterbildungsangebote,<extra_id_0>angeboteangeboteangeboteangeboteangeboteangeboteangeboteangeboteangeboteangeboteangeboteangeboteangeboteangeboteangeboteangeboteangeboteangebote,0,139
+524,Zugförderungs- und Werkstättedienst,Zugförderungs- und Werkstättedienst,<extra_id_0>stättestättestättestättestättestättestättestättestättestättestättestätte,0,71
+525,Handels- und Industriebetrieb,Handels- und Industriebetrieb,<extra_id_0>betriebbetriebbetriebbetriebbetriebbetriebbetriebbetriebbetriebbetriebbetriebbetriebbetriebbetriebbetriebbetriebbetriebbetrieb,0,124
+526,Sand- und Kernstrahlen,Sand- und Kernstrahlen,<extra_id_0> Sand Sand Sand Sand Sand Sand,0,32
+527,Angst- und Persönlichkeitsstörungen,Angst- und Persönlichkeitsstörungen,<extra_id_0>s,0,31
+528,Muster- und Pilotfabrikationen,Muster- und Pilotfabrikationen,<extra_id_0>ationen,0,20
+529,Anlauf- und Beratungsstelle,Anlauf- und Beratungsstelle,<extra_id_0>laufstelle Anlaufstelle,0,25
+530,Wohn- und Geschäftsimmobilien,Wohn- und Geschäftsimmobilien,<extra_id_0>,0,26

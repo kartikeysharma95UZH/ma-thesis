@@ -1,0 +1,51 @@
+,input,output,prediction,result,Levenshtein_dist
+440,Concept and feasibility studies,Concept studies and feasibility studies,Concept studies and feasibility studies,1,0
+441,Basic and server platforms,Basic platforms and server platforms,Basic platforms and server platforms,1,0
+442,Night and on-call duty,Night duty and on-call duty,Night duty and on-call duty,1,0
+445,Purchasing and marketing team,Purchasing team and marketing team,Purchasing team and marketing team,1,0
+448,Bachelor's and Master's level,Bachelor's level and Master's level,Bachelor's level and Master's level,1,0
+449,Safety and quality requirements,Safety requirements and quality requirements,Safety requirements and quality requirements,1,0
+450,Quality and safety requirements,Quality requirements and safety requirements,Quality requirements and safety requirements,1,0
+452,Quality of work and life,Quality of work and quality of life,Quality of work and Quality of life,0,1
+453,Road and rail transport,Road transport and rail transport,Road transport and rail transport,1,0
+454,Pulse and tongue diagnostics,Pulse diagnostics and tongue diagnostics,Pulse diagnostics and tongue diagnostics,1,0
+455,Measurement and control technology,Measurement technology and control technology,Measurement technology and control technology,1,0
+456,Living and working conditions,Living conditions and working conditions,Living conditions and working conditions,1,0
+457,Environmental and natural sciences,Environmental sciences and natural sciences,Environmental sciences and natural sciences,1,0
+458,Premium and benefit statements,Premium statements and benefit statements,Premium statements and benefit statements,1,0
+460,High-speed and high-performance milling machines,High-speed milling machines and high-performance milling machines,High-speed milling machines and high-performance milling machines,1,0
+461,Repair and warranty orders,Repair orders and warranty orders,Repair orders and warranty orders,1,0
+462,Bachelor and Master students,Bachelor students and Master students,Bachelor students and Master students,1,0
+465,Operating theatre and storage staff,Operating theatre staff and storage staff,Operating staff and storage staff,0,8
+466,Fire alarm and extinguishing systems,Fire alarm systems and extinguishing systems,Fire alarm systems and extinguishing systems,1,0
+468,Ability to work in a team and communicate,Ability to work in a team and Ability to communicate,Ability to work in a team and Ability to communicate,1,0
+470,Private and corporate clients,Private clients and corporate clients,Private clients and corporate clients,1,0
+471,Land acquisition and land sale projects,Land acquisition projects and land sale projects,Land acquisition projects and land sale projects,1,0
+472,Expansion and maintenance projects,Expansion projects and maintenance projects,Expansion projects and maintenance projects,1,0
+473,Wine and menu knowledge,Wine knowledge and menu knowledge,Wine knowledge and menu knowledge,1,0
+474,CRM and customer loyalty processes,CRM processes and customer loyalty processes,CRM processes and customer loyalty processes,1,0
+475,Learning and teaching practice,Learning practice and teaching practice,Learning practice and teaching practice,1,0
+476,Reception and telephone service,Reception service and telephone service,Reception service and telephone service,1,0
+478,New and existing customers,New customers and existing customers,New customers and existing customers,1,0
+479,Process and requirements definition,Process definition and requirements definition,Process definition and requirements definition,1,0
+481,Cervical and facial surgery,Cervical surgery and facial surgery,Cervical surgery and facial surgery,1,0
+482,Weekend and late services,Weekend services and late services,Weekend services and late services,1,0
+484,Preliminary and finishing work,Preliminary work and finishing work,Preliminary work and finishing work,1,0
+485,Service and team orientation,Service orientation and team orientation,Service orientation and team orientation,1,0
+486,Switchboard and control panel construction,Switchboard construction and control panel construction,Switchboard construction and control panel construction,1,0
+487,Hotel and restaurant industry,Hotel industry and restaurant industry,Hotel industry and restaurant industry,1,0
+488,Heating and air conditioning technology,Heating industry and air conditioning technology,Heating technology and air conditioning technology,0,9
+490,Conveyor and handling technology,Conveyor technology and handling technology,Conveyor technology and handling technology,1,0
+491,Sales and negotiation skills,Sales skills and negotiation skills,Sales skills and negotiation skills,1,0
+492,Private and business customers,Private customers and business customers,Private customers and business customers,1,0
+495,Acquisition and construction cost planning,Acquisition planning and construction cost planning,Acquisition cost planning and construction cost planning,0,5
+497,Credit and deposit products,Credit products and deposit products,Credit products and deposit products,1,0
+499,Management and personnel consulting,Management consultancy and personnel consulting,Management consulting and personnel consulting,0,3
+500,Marketing and sales strategy,Marketing strategy and sales strategy,Marketing strategy and sales strategy,1,0
+502,Further education and training,Further education and Further training,Further education and Further training,1,0
+504,Trading and industrial company,Trading company and industrial company,Trading company and industrial company,1,0
+505,Sand and core blasting,Sand blasting and core blasting,Sand blasting and core blasting,1,0
+506,Anxiety and personality disorders,Anxiety disorders and personality disorders,Anxiety disorders and personality disorders,1,0
+507,Sample and pilot fabrications,Sample fabrications and pilot fabrications,Sample fabrications and pilot fabrications,1,0
+508,Contact and advice centre,Contact centre and advice centre,Contact centre and advice centre,1,0
+509,Residential and commercial real estate,Residential real estate and commercial real estate,Residential real estate and commercial real estate,1,0

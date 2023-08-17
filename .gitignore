@@ -1,0 +1,10 @@
+new_quarterly_datasets/
+quarterly_datasets/
+ict_terml_extraction.py
+softskill_extraction.py
+*.lock
+output_new.log
+notes.txt
+softskill-completion/
+bloom_peft_lora/
+wandb/

@@ -1,0 +1,51 @@
+,input,output,prediction,result,Levenshtein_dist
+440,Concept and feasibility studies,Concept studies and feasibility studies,<extra_id_0>ᨘ and,0,33
+441,Basic and server platforms,Basic platforms and server platforms,<extra_id_0>ᨘ and,0,31
+442,Night and on-call duty,Night duty and on-call duty,<extra_id_0> and,0,23
+445,Purchasing and marketing team,Purchasing team and marketing team,<extra_id_0>壃    and,0,28
+448,Bachelor's and Master's level,Bachelor's level and Master's level,<extra_id_0>壃    and,0,30
+449,Safety and quality requirements,Safety requirements and quality requirements,<extra_id_0>ᨘ and,0,37
+450,Quality and safety requirements,Quality requirements and safety requirements,<extra_id_0> and,0,37
+452,Quality of work and life,Quality of work and quality of life,<extra_id_0>壃    and,0,30
+453,Road and rail transport,Road transport and rail transport,<extra_id_0>ᨘ and,0,26
+454,Pulse and tongue diagnostics,Pulse diagnostics and tongue diagnostics,<extra_id_0> and,0,33
+455,Measurement and control technology,Measurement technology and control technology,<extra_id_0> and,0,39
+456,Living and working conditions,Living conditions and working conditions,<extra_id_0>壃    and,0,34
+457,Environmental and natural sciences,Environmental sciences and natural sciences,<extra_id_0> and and and and,0,32
+458,Premium and benefit statements,Premium statements and benefit statements,<extra_id_0> and and and and and and and and and and and and and and and and and and,0,70
+460,High-speed and high-performance milling machines,High-speed milling machines and high-performance milling machines,<extra_id_0> and and and and and and and and and and and and and and and and and and,0,66
+461,Repair and warranty orders,Repair orders and warranty orders,<extra_id_0> and and and and and and and and and and and and and and and and and and,0,69
+462,Bachelor and Master students,Bachelor students and Master students,<extra_id_0>ᨘ and,0,30
+465,Operating theatre and storage staff,Operating theatre staff and storage staff,<extra_id_0> and,0,34
+466,Fire alarm and extinguishing systems,Fire alarm systems and extinguishing systems,<extra_id_0>壃    and,0,38
+468,Ability to work in a team and communicate,Ability to work in a team and Ability to communicate,<extra_id_0> and communication and and and and and and and and and and and and and and and and,0,74
+470,Private and corporate clients,Private clients and corporate clients,<extra_id_0> and,0,31
+471,Land acquisition and land sale projects,Land acquisition projects and land sale projects,<extra_id_0> and,0,42
+472,Expansion and maintenance projects,Expansion projects and maintenance projects,<extra_id_0> and,0,38
+473,Wine and menu knowledge,Wine knowledge and menu knowledge,<extra_id_0>ᨘ and,0,28
+474,CRM and customer loyalty processes,CRM processes and customer loyalty processes,<extra_id_0> customer,0,34
+475,Learning and teaching practice,Learning practice and teaching practice,<extra_id_0> and and and and and and and and and and and and and and and and and and,0,69
+476,Reception and telephone service,Reception service and telephone service,<extra_id_0> and,0,33
+478,New and existing customers,New customers and existing customers,<extra_id_0>壃  itary,0,28
+479,Process and requirements definition,Process definition and requirements definition,<extra_id_0>ᨘ and,0,40
+481,Cervical and facial surgery,Cervical surgery and facial surgery,<extra_id_0>,0,31
+482,Weekend and late services,Weekend services and late services,<extra_id_0>ᨘ and,0,29
+484,Preliminary and finishing work,Preliminary work and finishing work,<extra_id_0>壃    and,0,30
+485,Service and team orientation,Service orientation and team orientation,<extra_id_0> and and and and and and and and and and and and and and and and and and,0,67
+486,Switchboard and control panel construction,Switchboard construction and control panel construction,<extra_id_0>ᨘ and,0,48
+487,Hotel and restaurant industry,Hotel industry and restaurant industry,<extra_id_0>壃    and,0,31
+488,Heating and air conditioning technology,Heating industry and air conditioning technology,<extra_id_0> and,0,40
+490,Conveyor and handling technology,Conveyor technology and handling technology,<extra_id_0>ᨘ and,0,37
+491,Sales and negotiation skills,Sales skills and negotiation skills,<extra_id_0> and,0,31
+492,Private and business customers,Private customers and business customers,<extra_id_0>壃    and,0,35
+495,Acquisition and construction cost planning,Acquisition planning and construction cost planning,<extra_id_0> and and,0,43
+497,Credit and deposit products,Credit products and deposit products,<extra_id_0> and and and and and and and and and and and and and and and and and and,0,72
+499,Management and personnel consulting,Management consultancy and personnel consulting,<extra_id_0> and,0,41
+500,Marketing and sales strategy,Marketing strategy and sales strategy,<extra_id_0> and,0,30
+502,Further education and training,Further education and Further training,<extra_id_0>ᨘ and,0,30
+504,Trading and industrial company,Trading company and industrial company,<extra_id_0>壃    and,0,32
+505,Sand and core blasting,Sand blasting and core blasting,<extra_id_0>ᨘ and,0,25
+506,Anxiety and personality disorders,Anxiety disorders and personality disorders,<extra_id_0> and,0,35
+507,Sample and pilot fabrications,Sample fabrications and pilot fabrications,<extra_id_0> and,0,34
+508,Contact and advice centre,Contact centre and advice centre,<extra_id_0> and,0,25
+509,Residential and commercial real estate,Residential real estate and commercial real estate,<extra_id_0> and commercial,0,31
