@@ -1,4 +1,4 @@
-# Master's Thesis: Using Large Language Models (LLMs) to Expand Condensed Coordinated German and English Expressions into Explicit Paraphrases - University of Zurich
+# Master's Thesis: Using Large Language Models (LLMs) to Expand Condensed Coordinated German and English Expressions into Explicit Paraphrases
 
 Welcome to the GitHub repository for my Master's thesis from the Department of Computational Linguistics at the University of Zurich. This repository contains the code, data, and documents associated with my thesis.
 
