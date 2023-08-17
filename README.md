@@ -54,14 +54,7 @@ To [`description of what can be achieved`], follow these steps:
 
 ## Abstract and Thesis Document
 
-The full thesis document is available for download. You can access it here: [Download Thesis Document](MA_Thesis_Kartikey_Sharma.pdf).
-
-## References
-
-- [Paper 1]
-- [Paper 2]
-- [Library or tool 1]
-- [Any other relevant resources]
+The full thesis document is available for download. You can access it here: [Download Thesis](MA_Thesis_Kartikey_Sharma.pdf).
 
 ## Contributing
 
