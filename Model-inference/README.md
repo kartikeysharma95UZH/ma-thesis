@@ -1,4 +1,4 @@
-# Text Generation with Hugging Face Models
+# Text Generation with Domain Adapted Models
 
 This project demonstrates text generation using Hugging Face models for different language tasks. It includes three models: noun completion in English, noun completion in German, and phrase expansion in German.
 
