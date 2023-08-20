@@ -25,7 +25,6 @@ To run the model for noun completion in English, use the following command:
 
 ```
 python main.py --task noun-completion-en --input "Your input text here"
-
 ```
 
 Replace "Your input text here" with the input text you want to generate results for.
@@ -37,7 +36,6 @@ To run the model for noun completion in German, use the following command:
 
 ```
 python main.py --task noun-completion-de --input "Your input text here"
-
 ```
 
 Replace "Your input text here" with the input text you want to generate results for.
@@ -50,7 +48,6 @@ To run the model for phrase expansion in German, use the following command:
 
 ```
 python main.py --task phrase-expansion-de --input "Ihre Eingabetext hier"
-
 ```
 
 Replace "Ihre Eingabetext hier" with the input text you want to generate results for.
@@ -62,15 +59,12 @@ Here's an example usage of the script for each of the task:
 
 ```
 python main.py --task noun-completion-en --input "Heating and air conditioning technology"
-
 ```
 
 ```
 python main.py --task noun-completion-de --input "Mittwoch- und Samstagnachmittag"
-
 ```
 
 ```
 python main.py --task phrase-expansion-de --input "<SoftSkill_C>Kommunikations- </SoftSkill_C> und <SoftSkill>Teamfähigkeit</SoftSkill>"
-
 ```
