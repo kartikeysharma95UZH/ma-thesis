@@ -30,29 +30,23 @@ Die erste Aufgabe lösten die Modelle T5-large und FLAN-T5-large sowie GPT mit h
 - `Gold-Standard-data-prep/`: This directory contains the code implementation of the data extraction from the raw job ads for both the tasks of Noun Completion and Phrase Expansion 
 - `Model-Evaluation-&-Analysis/`: Here, you'll find the Python notebooks containing the evaluation of several models on three different evaluation categories. For each evaluation category, several error metrics are used, and results have been analyzed for further seven problem types 
 - `PEFT-LoRA/`: This directory contains the code implementation of fine-tuning various LLMs using a PEFT technique, LoRA (Low-Rank Adaptation of Large Language Models)
+- `Model-inference/`: This directory contains the code implementation of model inference for both the tasks of Noun Completion as well as Phrase Expansion
 - `data_files/`: Here, you'll find the Gold Standard datasets in German and English and any other relevant data files.
 - `MA_Thesis_Kartikey_Sharma`: This document contains my full thesis document.
 
 ## Installation and Setup
 
 1. Clone this repository: `git clone git@github.com:kartikeysharma95UZH/ma-thesis.git`
-2. For Model Inference, navigate to the `Model-inference` directory: `cd Model-inference`
-3. Install the required dependencies: 
+2. For Fine-tuning models with non-PEFT approach, navigate to the `Fine-Tune-pipeline` directory: `cd Fine-Tune-pipeline`
+3. For Fine-tuning models with PEFT approach, navigate to the `PEFT-LoRA` directory: `cd PEFT-LoRA`
+4. For Model Inference, navigate to the `Model-inference` directory: `cd Model-inference`
+5. Install the required dependencies: 
 
 ```
 pip install -r requirements.txt
 ```
 
-The dependencies are different for running different components of the project: `Sampler`, `non-PEFT fine-tuning` and `model inference`. Separate Requirements.txt file can be found inside each directory. 
-4. Run the project: `*******`
-
-## Usage
-
-To [`description of what can be achieved`], follow these steps:
-
-1. [Step 1]
-2. [Step 2]
-3. [Step 3]
+The dependencies are different for running different components of the project: `Sampler`, `non-PEFT fine-tuning` and `model inference`. Separate Requirements.txt file can be found inside each directory along with separate README.md  files
 
 ## Thesis Document
 
