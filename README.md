@@ -25,8 +25,8 @@ Die erste Aufgabe lösten die Modelle T5-large und FLAN-T5-large sowie GPT mit h
 
 ## Repository Contents
 
-- `Data-Sampler/`: This directory contains the code implementation of the Nilsimsa sampler to select unique cases from the extracted data for dataset creation.
-- `Fine-Tune-pipeline/`: This directory contains the code implementation of the entire project pipeline for fine-tuning several LLMs. 
+- `Data-Sampler/`: This directory contains the code implementation of Nilsimsa sampler to select unique cases from the extracted data for dataset creation.
+- `Fine-Tune-pipeline/`: This directory contains the code implementation of the entire project pipeline for fine-tuning several LLMs with non-PEFT techniques. 
 - `Gold-Standard-data-prep/`: This directory contains the code implementation of the data extraction from the raw job ads for both the tasks of Noun Completion and Phrase Expansion 
 - `Model-Evaluation-&-Analysis/`: Here, you'll find the Python notebooks containing the evaluation of several models on three different evaluation categories. For each evaluation category, several error metrics are used, and results have been analyzed for further seven problem types 
 - `PEFT-LoRA/`: This directory contains the code implementation of fine-tuning various LLMs using a PEFT technique, LoRA (Low-Rank Adaptation of Large Language Models)
@@ -42,6 +42,8 @@ Die erste Aufgabe lösten die Modelle T5-large und FLAN-T5-large sowie GPT mit h
 ```
 pip install -r requirements.txt
 ```
+
+The dependencies are different for running different components of the project: `Sampler`, `non-PEFT fine-tuning` and `model inference`. Separate Requirements.txt file can be found inside each directory. 
 4. Run the project: `*******`
 
 ## Usage
