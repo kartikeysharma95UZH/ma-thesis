@@ -42,7 +42,7 @@ Replace "Your input text here" with the input text you want to generate results 
 
 3. `Phrase Expansion German`
 
-This task involves expanding a German phrase using a phrase expansion model.
+This task involves expanding condensed coordinated soft-skill requirements using a phrase expansion model.
 
 To run the model for phrase expansion in German, use the following command:
 
