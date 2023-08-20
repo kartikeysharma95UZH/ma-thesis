@@ -6,7 +6,7 @@ Welcome to the GitHub repository for my Master's thesis from the Department of C
 
 This master’s thesis explores fine-tuning Large Language Models (LLMs) to reformulate condensed coordinated expressions found in job postings. This kind of condensed coordinated expression is frequently used in job postings, which is our target text genre for this work. Four gold-standard datasets were created for two tasks in English and German.
 
-The first task focuses on truncated word completion, where elided text like “Haus- und Gartenarbeit” (house and garden work) needs to be completed to “Hausarbeit und Gartenarbeit”. The German GS dataset consists of 510 samples, while the English GS contains 402 samples. The primary goal is to assess the LLMs’ performance in this task and identify promising models for the second, more complex task.
+The first task focuses on truncated word completion, where elided text like “Haus- und Gartenarbeit” (house and garden work) needs to be completed to “Hausarbeit und Gartenarbeit.” The German GS dataset consists of 510 samples, while the English GS contains 402 samples. The primary goal is to assess the LLMs’ performance in this task and identify promising models for the second, more complex task.
 
 The second task involves expanding condensed coordinated soft-skill requirements
 like “Sie arbeiten sehr selbständig, ziel- und kundenorientiert” into explicit self-contained paraphrases such as “Sie arbeiten sehr selbständig, arbeiten zielorientiert und arbeiten kundenorientiert”. To achieve a proper mapping of soft-skill requirements to a detailed domain ontology, it is crucial to provide self-contained text spans that refer to a single concept. For creating the German GS, we utilized In-Context Learning with ChatGPT, providing 5 examples in the prompt to generate additional samples. Subsequently, these samples were used to fine-tune GPT-3 and later manually verified to form a GS dataset comprising 1968 samples.
@@ -25,18 +25,18 @@ Die erste Aufgabe lösten die Modelle T5-large und FLAN-T5-large sowie GPT mit h
 
 ## Repository Contents
 
-- `Data-Sampler/`: This directory contains the code implementation of Nilsimsa sampler to select unique cases from the extracted data for dataset creation.
+- `Data-Sampler/`: This directory contains the code implementation of the Nilsimsa sampler to select unique cases from the extracted data for dataset creation.
 - `Fine-Tune-pipeline/`: This directory contains the code implementation of the entire project pipeline for fine-tuning several LLMs. 
 - `Gold-Standard-data-prep/`: This directory contains the code implementation of the data extraction from the raw job ads for both the tasks of Noun Completion and Phrase Expansion 
-- `Model-Evaluation-&-Analysis/`: Here, you'll find the python notebooks containing the evaluation of several models on three different evaluation categories. For each evaluation category, several error metrics are used and results have been analyzed for further 7 problem types 
-- `PEFT-LoRA/`: This directory contains the code implementation of fine-tuning various LLMs using a PEFT technique, LoRA (Low Rank Adaptation of Large Language Models)
+- `Model-Evaluation-&-Analysis/`: Here, you'll find the Python notebooks containing the evaluation of several models on three different evaluation categories. For each evaluation category, several error metrics are used, and results have been analyzed for further seven problem types 
+- `PEFT-LoRA/`: This directory contains the code implementation of fine-tuning various LLMs using a PEFT technique, LoRA (Low-Rank Adaptation of Large Language Models)
 - `data_files/`: Here, you'll find the Gold Standard datasets in German and English and any other relevant data files.
 - `MA_Thesis_Kartikey_Sharma`: This document contains my full thesis document.
 
 ## Installation and Setup
 
 1. Clone this repository: `git clone git@github.com:kartikeysharma95UZH/ma-thesis.git`
-2. Navigate to the `*******` directory: `cd *****`
+2. For Model Inference, navigate to the `Model-inference` directory: `cd Model-inference`
 3. Install the required dependencies: 
 
 ```
@@ -52,7 +52,7 @@ To [`description of what can be achieved`], follow these steps:
 2. [Step 2]
 3. [Step 3]
 
-## Abstract and Thesis Document
+## Thesis Document
 
 The full thesis document is available for download. You can access it here: [Download Thesis](MA_Thesis_Kartikey_Sharma.pdf).
 
