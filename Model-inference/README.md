@@ -54,7 +54,7 @@ Replace "Ihre Eingabetext hier" with the input text you want to generate results
 
 ## Example
 
-Here's an example usage of the script for each of the task:
+Here's an example usage of the script for each of the tasks:
 
 
 ```
