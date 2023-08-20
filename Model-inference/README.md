@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ```
 ## Usage
 
-1. Noun Completion English
+1. `Noun Completion English`
 This task involves completing an elided noun text by adding an appropriate text in English.
 
 To run the model for noun completion in English, use the following command:
@@ -30,7 +30,7 @@ python main.py --task noun-completion-en --input "Your input text here"
 
 Replace "Your input text here" with the input text you want to generate results for.
 
-2. Noun Completion German
+2. `Noun Completion German`
 This task involves completing an elided noun text(truncated nouns) by adding an appropriate text in German.
 
 To run the model for noun completion in German, use the following command:
@@ -42,7 +42,7 @@ python main.py --task noun-completion-de --input "Your input text here"
 
 Replace "Your input text here" with the input text you want to generate results for.
 
-3. Phrase Expansion German
+3. `Phrase Expansion German`
 
 This task involves expanding a German phrase using a phrase expansion model.
 
