@@ -6,7 +6,7 @@ This project demonstrates text generation using Hugging Face models for differen
 
 1. Clone the repository:
    ```
-   `git clone git@github.com:kartikeysharma95UZH/ma-thesis.git`
+   git clone git@github.com:kartikeysharma95UZH/ma-thesis.git
    cd ma-thesis
    ```
 
