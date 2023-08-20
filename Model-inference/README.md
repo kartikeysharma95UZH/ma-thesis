@@ -21,7 +21,7 @@ pip install -r requirements.txt
 1. `Noun Completion English`
 This task involves completing an elided noun text by adding an appropriate text in English.
 
-To run the model for noun completion in English, use the following command:
+To run this model, use the following command:
 
 ```
 python main.py --task noun-completion-en --input "Your input text here"
@@ -32,7 +32,7 @@ Replace "Your input text here" with the input text you want to generate results 
 2. `Noun Completion German`
 This task involves completing an elided noun text(truncated nouns) by adding an appropriate text in German.
 
-To run the model for noun completion in German, use the following command:
+To run this model, use the following command:
 
 ```
 python main.py --task noun-completion-de --input "Your input text here"
@@ -44,7 +44,7 @@ Replace "Your input text here" with the input text you want to generate results 
 
 This task involves expanding condensed coordinated soft-skill requirements using a phrase expansion model.
 
-To run the model for phrase expansion in German, use the following command:
+To run this model, use the following command:
 
 ```
 python main.py --task phrase-expansion-de --input "Ihre Eingabetext hier"
