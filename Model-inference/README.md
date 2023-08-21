@@ -7,7 +7,7 @@ This project demonstrates text generation using Hugging Face models for differen
 Clone the repository:
    ```
    git clone git@github.com:kartikeysharma95UZH/ma-thesis.git
-   cd ma-thesis
+   cd ma-thesis/Model-inference
    ```
 
 Create a virtual environment and install dependencies from the requirements.txt file:
