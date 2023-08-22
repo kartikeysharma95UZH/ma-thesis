@@ -32,7 +32,7 @@ Die erste Aufgabe lösten die Modelle T5-large und FLAN-T5-large sowie GPT mit h
 - `PEFT-LoRA/`: This directory contains the code implementation of fine-tuning various LLMs using a PEFT technique, LoRA (Low-Rank Adaptation of Large Language Models)
 - `Model-inference/`: This directory contains the code implementation of model inference for both the tasks of Noun Completion as well as Phrase Expansion
 - `data_files/`: Here, you'll find the Gold Standard datasets in German and English and any other relevant data files.
-- `MA_Thesis_Kartikey_Sharma`: This document contains my full thesis document.
+- `MA_Thesis_Kartikey_Sharma.pdf`: This document contains my full thesis document.
 
 ## Installation and Setup
 
